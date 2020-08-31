@@ -64,9 +64,9 @@ npm run dev
 
 ## Contributors to Synbiolic
 
-- William Law [Twitter](https://twitter.com/wlaw_) [Website](https://wlawt.com/) [Github](https://github.com/wlawt)
-- Aryan Misra [Twitter](https://twitter.com/AryanMisra7) [Website](https://aryanmisra.com/) [Github](https://github.com/aryanmisra)
-- Joey Mach [Twitter](https://twitter.com/joeymach_) [Website](http://joeymach.com/) [Github](https://github.com/joeym-09)
+- William Law - [Twitter](https://twitter.com/wlaw_), [Website](https://wlawt.com/), [Github](https://github.com/wlawt)
+- Aryan Misra - [Twitter](https://twitter.com/AryanMisra7), [Website](https://aryanmisra.com/), [Github](https://github.com/aryanmisra)
+- Joey Mach - [Twitter](https://twitter.com/joeymach_), [Website](http://joeymach.com/), [Github](https://github.com/joeym-09)
 
 ## Acknowledgements
 
