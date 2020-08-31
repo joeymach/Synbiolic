@@ -21,7 +21,7 @@ Microsoft Imagine Cup Americas Regional Finalist & Runner-Up
 #### Clone the repository:
 
 ```
-git clone https://github.com/wlawt/synbiolic.git
+git clone https://github.com/joeym-09/Synbiolic.git
 cd synbiolic
 ```
 
