@@ -2,7 +2,7 @@
 
 Microsoft Imagine Cup Americas Regional Finalist & Runner-Up
 
-Check out Synbiolic's Content:
+#### Check out Synbiolic's Content:
 - [Website](https://synbiolic.com/)
 - [Pitch Video (4:40)](https://www.youtube.com/watch?v=vEfpFVIOYQY)
 - [Demo Video (1:03)](https://www.youtube.com/watch?v=Kt6j1dJpIDA&feature=youtu.be)
