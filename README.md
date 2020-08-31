@@ -3,12 +3,12 @@
 Microsoft Imagine Cup Americas Regional Finalist & Runner-Up
 
 Check out Synbiolic's Content:
-- [Website] (https://synbiolic.com/)
-- [Pitch Video (4:40)] (https://www.youtube.com/watch?v=vEfpFVIOYQY)
-- [Demo Video (1:03)] (https://www.youtube.com/watch?v=Kt6j1dJpIDA&feature=youtu.be)
-- [Article about Reinforcement Learning] (https://medium.com/datadriveninvestor/drug-design-made-fun-using-reinforcement-learning-212a4f867f33)
-- [Article about VAE model] (https://towardsdatascience.com/unlocking-drug-discovery-through-machine-learning-part-1-8b2a64333e07)
-- Older Version of Synbiolic's Open Source Repo at [William Law's Github] (https://github.com/wlawt/synbiolic)
+- [Website](https://synbiolic.com/)
+- [Pitch Video (4:40)](https://www.youtube.com/watch?v=vEfpFVIOYQY)
+- [Demo Video (1:03)](https://www.youtube.com/watch?v=Kt6j1dJpIDA&feature=youtu.be)
+- [Article about Reinforcement Learning](https://medium.com/datadriveninvestor/drug-design-made-fun-using-reinforcement-learning-212a4f867f33)
+- [Article about VAE model](https://towardsdatascience.com/unlocking-drug-discovery-through-machine-learning-part-1-8b2a64333e07)
+- Older Version of Synbiolic's Open Source Repo at [William Law's Github](https://github.com/wlawt/synbiolic)
 
 ## Acknowledgements
 
@@ -73,7 +73,7 @@ npm run dev
 
 ## Contributors to Synbiolic
 
-- William Law [Twitter] (https://twitter.com/wlaw_) [Website] (https://wlawt.com/) [Github] (https://github.com/wlawt)
-- Aryan Misra [Twitter] (https://twitter.com/AryanMisra7) [Website] (https://aryanmisra.com/) [Github] (https://github.com/aryanmisra)
-- Joey Mach [Twitter] (https://twitter.com/joeymach_) [Website] (http://joeymach.com/) [Github] (https://github.com/joeym-09)
+- William Law [Twitter](https://twitter.com/wlaw_) [Website](https://wlawt.com/) [Github](https://github.com/wlawt)
+- Aryan Misra [Twitter](https://twitter.com/AryanMisra7) [Website](https://aryanmisra.com/) [Github](https://github.com/aryanmisra)
+- Joey Mach [Twitter](https://twitter.com/joeymach_) [Website](http://joeymach.com/) [Github](https://github.com/joeym-09)
 
