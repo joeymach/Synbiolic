@@ -68,7 +68,7 @@ npm run dev
 - Aryan Misra - [Twitter](https://twitter.com/AryanMisra7), [Website](https://aryanmisra.com/), [Github](https://github.com/aryanmisra)
 - Joey Mach - [Twitter](https://twitter.com/joeymach_), [Website](http://joeymach.com/), [Github](https://github.com/joeym-09)
 
-## Acknowledgements
+## References
 
 - [Deep reinforcement learning for de novo drug design Popova et. al 2018](https://advances.sciencemag.org/content/4/7/eaap7885)
 - [DeepChem](https://github.com/deepchem/deepchem)
