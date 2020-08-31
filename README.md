@@ -11,10 +11,10 @@ Microsoft Imagine Cup Americas Regional Finalist & Runner-Up
 - Older Version of Synbiolic's Open Source Repo at [William Law's Github](https://github.com/wlawt/synbiolic)
 
 ## Media
-- [N.A Regional Finalist (Top 5 of 28000)](https://blogs.microsoft.com/latinx/2020/03/26/rounding-up-this-years-microsoft-imagine-cup-introducing-the-10-americas-regional-finalist-teams/?_lrsc=80d7de8f-0168-4ffc-8e0e-912c0a0377d5)
-- [Microsoft Feature](https://news.microsoft.com/en-ca/2020/03/30/team-synbiolic-from-canada-wins-runner-up-position-at-the-2020-microsoft-imagine-cup-americas-regional-finals/)
-- [Runner Up Microsoft Feature](https://techcommunity.microsoft.com/t5/student-developer-blog/congratulations-to-our-2020-imagine-cup-americas-regional-final/ba-p/1264942)
-- [Microsoft Pitch](https://www.youtube.com/watch?v=OUDGOfMDOi0)
+- [Microsoft Imagine Cup (IC) N.A. Regional Finalist (Top 5 of 28000)](https://blogs.microsoft.com/latinx/2020/03/26/rounding-up-this-years-microsoft-imagine-cup-introducing-the-10-americas-regional-finalist-teams/?_lrsc=80d7de8f-0168-4ffc-8e0e-912c0a0377d5)
+- [Microsoft IC Feature](https://news.microsoft.com/en-ca/2020/03/30/team-synbiolic-from-canada-wins-runner-up-position-at-the-2020-microsoft-imagine-cup-americas-regional-finals/)
+- [Runner Up Microsoft IC Feature](https://techcommunity.microsoft.com/t5/student-developer-blog/congratulations-to-our-2020-imagine-cup-americas-regional-final/ba-p/1264942)
+- [Microsoft IC Pitch](https://www.youtube.com/watch?v=OUDGOfMDOi0)
 
 ## Download Repo
 
