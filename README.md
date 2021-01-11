@@ -1,5 +1,5 @@
 # Synbiolic Platform - Unlocking Drug Discovery with AI 
-#### Microsoft Imagine Cup Americas Regional Finalist & Runner-Up
+#### Microsoft Imagine Cup Americas Regional Finalist & Runner-Up (Top 5 of 28000) 
 End-to-end ML pipeline for drug discovery from generating novel small molecules with **desired effects** to predicting the synthesis (retrosynthesis) pathways of those generated molecules. 
 
 ## Check out Synbiolic's Content
